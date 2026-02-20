@@ -1,0 +1,6 @@
+ID,Title,Steps,Expected Result,Status
+TC001,Login válido,Inserir usuário e senha corretos,Usuário logado com sucesso,Pass
+TC002,Senha inválida,Inserir senha incorreta,Exibir mensagem de erro,Pass
+TC003,Usuário inexistente,Inserir usuário inválido,Exibir mensagem de erro,Pass
+TC004,Campo senha vazio,Deixar senha em branco,Sistema deve exigir senha,Pass
+TC005,Campo usuário vazio,Deixar usuário em branco,Sistema deve exigir usuário,Pass
